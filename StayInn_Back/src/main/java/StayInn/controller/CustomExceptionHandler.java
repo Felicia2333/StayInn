@@ -2,7 +2,6 @@ package StayInn.controller;
 
 
 import StayInn.exception.*;
-import com.laioffer.staybooking.exception.*;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
